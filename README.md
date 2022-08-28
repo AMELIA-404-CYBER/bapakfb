@@ -11,7 +11,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf bapakfb`
-- `git clone https://github.com/AfrianiXD/bapakfb`
+- `git clone https://github.com/AMELIA-404-CYBER/bapakfb`
 - `cd bapakfb`
 - `python bapakfb.py`
      
